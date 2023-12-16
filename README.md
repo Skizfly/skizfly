@@ -1,4 +1,4 @@
-<h1>Hi, my name is La-Scot, an <a href="https://linkedin.com/in/Josh">aspired IT Professional</a>☺</h1>
+<h1>Hi, my name is La-Scot, an <a href="https://www.linkedin.com/in/lascot-yancey-aa0447b2/">aspired IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
