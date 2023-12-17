@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/skizfly/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/skizfly/osTicket-Lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/skizfly/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/skizfly/configuring-AD)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/skizfly/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
